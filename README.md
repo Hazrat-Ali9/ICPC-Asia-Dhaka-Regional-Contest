@@ -2,6 +2,6 @@
 
 # 👻 Programmer || Software Engineering
 
-## License
+## LICENSE
 
 [MIT License](LICENSE)
